@@ -1,0 +1,7 @@
+C:\Users\hirot\Desktop\MovingBall\MovingBall\bin\Release\MovingBall.exe.config
+C:\Users\hirot\Desktop\MovingBall\MovingBall\bin\Release\MovingBall.exe
+C:\Users\hirot\Desktop\MovingBall\MovingBall\bin\Release\MovingBall.pdb
+C:\Users\hirot\Desktop\MovingBall\MovingBall\obj\Release\MovingBall.csprojAssemblyReference.cache
+C:\Users\hirot\Desktop\MovingBall\MovingBall\obj\Release\MovingBall.csproj.CoreCompileInputs.cache
+C:\Users\hirot\Desktop\MovingBall\MovingBall\obj\Release\MovingBall.exe
+C:\Users\hirot\Desktop\MovingBall\MovingBall\obj\Release\MovingBall.pdb
